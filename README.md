@@ -9,7 +9,7 @@ Feel free to fork our repository and make a pull request in adherance to the [st
 2. Copy and paste all of the files from the `en` directory into your new language.
 3. Add a new language entry in your `Languages.json` file (in the `Localization` directory) with a `LanguageID` that is the same as the name of the directory you just created (that is how the localization manager in the game finds your files), a `LanguageName` that is the English translation of your language name, and a `DisplayName` that is the name of your language in your language.
 4. Open Obduction and verify that your language appears in the languages list in the menu. If it is not listed in the languages list, double check that you entered everything in the `Languages.json` file correctly.
-5. Start translating files in your new language's directory and be sure to check that they work in-game. Please note that all files must be saved with an encoding of UTF-16 LE with BOM.
+5. Start translating files in your new language's directory and be sure to check that they work in-game. Please note that all files must be saved with an encoding of UTF-16 LE with BOM. (Note: We know that `git diff` currently treats these files as binary files, and we are looking into alternative, reliable solutions on our end to get around this issue and make it easier for people to contribute, but for now, UTF-16 files will be what we accept).
 6. Once all of your files are translated and have been verified as displaying correctly in the game, you can make a pull request into this repository with that folder you created.
 
 ### I'm unfamiliar with GitHub, but I would like to contribute a language I've localized for Obduction by making this so-called "Pull request". How can I share my work with you?
