@@ -3,7 +3,8 @@ Localized changes to the game Obduction.
 
 Hello there!
 Thank you so much for your interest in contributing localization support for a new language in Obduction!
-Feel free to fork our repository and make a pull request in adherance to the [standards listed in our FAQ](https://github.com/Cyan-Inc/ObductionFanLocalization/wiki/FAQ#what-information-or-data-do-i-need-to-include-in-my-pull-request), and some are listed here for reference:
+If you would like to discuss localization efforts in Obduction, please see our [Obduction Localization Forums](http://forums.cyan.com/viewforum.php?f=132).
+If you would like to contribute to this repository, feel free to fork the repo and make a pull request in adherance to the [standards listed in our FAQ](https://github.com/Cyan-Inc/ObductionFanLocalization/wiki/FAQ#what-information-or-data-do-i-need-to-include-in-my-pull-request), and some are listed here for reference:
 ### I want to localize files from Obduction into a new language. How do I go about doing this?
 1. In your game's `Obduction/Content/Localization` directory, add a new directory for your language named as two letters that are generally used as describing your language name (e.g. "fr" would be two characters that in general use, symbolize "French").
 2. Copy and paste all of the files from the `en` directory into your new language.
