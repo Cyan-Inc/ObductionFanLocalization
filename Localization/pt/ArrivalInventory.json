@@ -1,0 +1,59 @@
+{
+	"Pages": [
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Registo do Inventário das Novas Chegadas\r\n",
+					"XLocation": 0.019999999552965164,
+					"YLocation": 0.019999999552965164,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.69999998807907104,
+					"YFontSize": 0.69999998807907104,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "CRT\r\nMangueira curta\r\n2 interruptores\r\nÁrvore pequena\r\nBolsa de couro\r\nFonte de energia\r\nArmário grande de chapas\r\nPiso de madeira\r\nLuminária\r\nVárias bandeiras nacionais\r\n4 postes de metal\r\nCâmera de vídeo\r\n16 baterias de carro\r\nMetade posterior de caminhonete\r\nCaixas de papelão\r\nPrateleiras\r\nLivros\r\nTela de projeção\r\nQuadro\r\nProjetor de slides\r\nTapete\r\nCerca parcial\r\nTomates\r\n",
+					"XLocation": 0.075000002980232239,
+					"YLocation": 0.085000000894069672,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 1,
+					"YFontSize": 1,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "2 toca-fitas\r\nCompressor\r\nMangueira\r\nCaixa de fusíveis\r\nCabo elétrico\r\nVários interruptores\r\nLâmpadas variados\r\nCaixa de metal\r\nCortadores de fio\r\nDescascadores de fios\r\nCalculadora\r\nTintas\r\nTelas variadas\r\nCavalete\r\nVários tapetes\r\nSoldador\r\nFonte de energia\r\nBomba\r\nSeção do I-beam\r\nRecortes de estanho\r\nAlicate\r\n",
+					"XLocation": 0.10000000149011612,
+					"YLocation": 0.05000000074505806,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 1,
+					"YFontSize": 1,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		}
+	]
+}

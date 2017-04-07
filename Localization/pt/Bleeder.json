@@ -1,0 +1,104 @@
+{
+	"Pages": [
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Sr Prefeito:\r\n\r\n",
+					"XLocation": 0.05000000074505806,
+					"YLocation": 0.05000000074505806,
+					"XBlockSize": 0.4699999988079071,
+					"YBlockSize": 0.44999998807907104,
+					"XFontSize": 0.5,
+					"YFontSize": 0.5,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "Conforme sua solicitação, aqui está a informação relativa ao Sangrador, a sua história, e alguns detalhes sobre a engenharia dele.",
+					"XLocation": 0.054999999701976776,
+					"YLocation": 0.10000000149011612,
+					"XBlockSize": 0.40000000596046448,
+					"YBlockSize": 0.5,
+					"XFontSize": 0.5,
+					"YFontSize": 0.5,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "O Sangrador foi projetado e construído ao pedido do Prefeito Sims para recolher e dissipar a energia em todo o ecossistema que sempre estava aumentando. Prefeito Sims estava relutante em permitir que o sistema atingir a maturidade, porque ele (e outros) tinha-se tornado suspeito da morte de Prefeito Farley. Ele acreditava que, sem saber mais precisamente o que aconteceria com o limite da célula na fruição, seria uma má idéia permitir que ele \"abra\" possivelmente -- permitindo, assim, que o que estava fora - poderia entrar, e o que estava dentro - poderia sair.\r\n",
+					"XLocation": 0.054999999701976776,
+					"YLocation": 0.23000000417232513,
+					"XBlockSize": 0.40000000596046448,
+					"YBlockSize": 0.5,
+					"XFontSize": 0.5,
+					"YFontSize": 0.5,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "O sistema tem a capacidade de desacelerar os quatro mundos conectados. A idéia, como você sabe, é para suprimir o poder do ecossistema e, assim, inibir a a maturidade completa das Árvores. Foi postulado (e tornou-se evidente) que essa supressão iria parar o processo de \"maturidade\" desconhecida -- e nos dar o controle direto sobre a fruição da Árvore.\r\n\r\n",
+					"XLocation": 0.05000000074505806,
+					"YLocation": 0.66500000476837158,
+					"XBlockSize": 0.40000000596046448,
+					"YBlockSize": 0.44999998807907104,
+					"XFontSize": 0.5,
+					"YFontSize": 0.5,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "1 / 2",
+					"XLocation": 0.42500001192092896,
+					"YLocation": 0.92500001192092896,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.5,
+					"YFontSize": 0.5,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Atenciosamente,\r\n\r\nC.W.\r\n",
+					"XLocation": 0.30000001192092896,
+					"YLocation": 0.05000000074505806,
+					"XBlockSize": 0.44999998807907104,
+					"YBlockSize": 0.44999998807907104,
+					"XFontSize": 0.44999998807907104,
+					"YFontSize": 0.44999998807907104,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		}
+	]
+}
