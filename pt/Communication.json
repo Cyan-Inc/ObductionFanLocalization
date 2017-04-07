@@ -1,0 +1,313 @@
+{
+	"Pages": [
+		{
+			"Background": "",
+			"PageElements": []
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": " Comunicação - Falando\r\nCom os Nossos Vizinhos",
+					"XLocation": 0.17000000178813934,
+					"YLocation": 0.029999999329447746,
+					"XBlockSize": 0.89999997615814209,
+					"YBlockSize": 0.85000002384185791,
+					"XFontSize": 1.1499999761581421,
+					"YFontSize": 1.1499999761581421,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "Mesmo com as linguagens variadas que encontramos aqui em Hunrath, a comunicação é relativamente fácil. Mas quando de repente nos encontramos entre outras espécies inteligentes que não compartilham nossa cultura, história, DNA, ou cordas vocais, requer um grande esforço para começar a conversar rudimentarmente. Este breve resumo irá prepará-lo para o que esperar quando se comunicar com os nossos vizinhos.",
+					"XLocation": 0.17000000178813934,
+					"YLocation": 0.18299999833106995,
+					"XBlockSize": 0.75999999046325684,
+					"YBlockSize": 0.85000002384185791,
+					"XFontSize": 0.81699997186660767,
+					"YFontSize": 0.81699997186660767,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Image",
+					"Text": "/../Global/Arrow_a.png",
+					"XLocation": 0.029999999329447746,
+					"YLocation": 0.87999999523162842,
+					"XBlockSize": 0.10000000149011612,
+					"YBlockSize": 0.10000000149011612,
+					"XFontSize": 1,
+					"YFontSize": 1,
+					"Font": "",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 0.94999998807907104
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": []
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Mofang",
+					"XLocation": 0.40000000596046448,
+					"YLocation": 0.045000001788139343,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 1.3999999761581421,
+					"YFontSize": 1.3999999761581421,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "Os Mofang foram os primeiros desumanos que conhecemos. Com, pelo menos, algum grau de capacidade da geração de vocais similares, eles apprenderam palavras humanas rapidamente. Este mimetismo inicial resultou na nomeação da espécie. Mesmo que eles eram capazes de imitar palavras e frases simples, ficou evidente ao longo dos anos que as enormes diferenças gramaticais não foram facilmente superadas. Alguns propuseram que essa dificuldade pode ser porque os Mofang insistiram em tentar aprender a cada linguagem humana, e, como resultado, nunca foram capazes de aprender nenhuma estrutura gramatical consistente. No entanto, apesar da construção rudimentarmente de frases, tem sido muito fácil a comunicar, e não tem sido necessário aprender a sua língua além de algumas frases simples e nomes próprios. (Se quiser aprender mais sobre a comunicação com os Mofang, entre em contato com Tam.)",
+					"XLocation": 0.17000000178813934,
+					"YLocation": 0.15000000596046448,
+					"XBlockSize": 0.81000000238418579,
+					"YBlockSize": 0.85000002384185791,
+					"XFontSize": 0.81699997186660767,
+					"YFontSize": 0.81699997186660767,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Image",
+					"Text": "/../Global/Arrow_b.png",
+					"XLocation": 0.019999999552965164,
+					"YLocation": 0.9100000262260437,
+					"XBlockSize": 0.075000002980232239,
+					"YBlockSize": 0.075000002980232239,
+					"XFontSize": 1,
+					"YFontSize": 1,
+					"Font": "",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 0.94999998807907104
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": []
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Villein",
+					"XLocation": 0.42500001192092896,
+					"YLocation": 0.045000001788139343,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 1.3999999761581421,
+					"YFontSize": 1.3999999761581421,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "Os Villein têm apresentado um grande desafio de comunicação. Do que podemos entender, eles produzem sons usando dois grandes estruturas como canas dentro de lados opostos de suas cabeças. Os vibrações geradas são canalizados para câmaras de ressonância em seus crânios onde estão combinados em um complexo tom dual de baixa frequência. Os sons bitonais de baixa frequência não são apenas difícil para os seres humanos ouvir e resolver, mas são impossível para nós imitar. E a audiência dos Villeins é orientada para a baixa frequência, então eles são incapazes de ouvir a maioria dos sons associados com a fala humana. Portanto, a comunicação com o Villein tem contado com a tecnologia. Eles se adaptaram consoles (que os Villein fluentemente controlar com a vocalização) para o uso das outras espécies. Ao longo dos anos, alguns indivíduos de outras espécies (incluindo alguns humanos) aprenderam a se comunicar de forma",
+					"XLocation": 0.17000000178813934,
+					"YLocation": 0.15000000596046448,
+					"XBlockSize": 0.81000000238418579,
+					"YBlockSize": 0.85000002384185791,
+					"XFontSize": 0.81699997186660767,
+					"YFontSize": 0.81699997186660767,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Image",
+					"Text": "/../Global/Arrow_c.png",
+					"XLocation": 0.019999999552965164,
+					"YLocation": 0.9100000262260437,
+					"XBlockSize": 0.075000002980232239,
+					"YBlockSize": 0.075000002980232239,
+					"XFontSize": 1,
+					"YFontSize": 1,
+					"Font": "",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": []
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "muito eficaz usando esse método. Os humanos têm sido capazes de discernir algumas características de frequências mais elevadas de certas palavras importantes does Villein ao longo dos anos. E apesar de não podermos falar com os Villein de uma forma que possam compreender, somos ocasionalmente capaz de ouvir e reconhecer estas palavras quando falado distintamente pelos Villein.",
+					"XLocation": 0.17000000178813934,
+					"YLocation": 0.15000000596046448,
+					"XBlockSize": 0.81000000238418579,
+					"YBlockSize": 0.85000002384185791,
+					"XFontSize": 0.81699997186660767,
+					"YFontSize": 0.81699997186660767,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "(Se quiser aprender mais sobre a comunicação com os Villein, entre em contato com Vito.)",
+					"XLocation": 0.18000000715255737,
+					"YLocation": 0.57,
+					"XBlockSize": 0.89999997615814209,
+					"YBlockSize": 0.89999997615814209,
+					"XFontSize": 0.81699997186660767,
+					"YFontSize": 0.81699997186660767,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Image",
+					"Text": "/../Global/Arrow_a.png",
+					"XLocation": 0.029999999329447746,
+					"YLocation": 0.9100000262260437,
+					"XBlockSize": 0.075000002980232239,
+					"YBlockSize": 0.075000002980232239,
+					"XFontSize": 1,
+					"YFontSize": 1,
+					"Font": "",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": []
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Arai",
+					"XLocation": 0.4699999988079071,
+					"YLocation": 0.045000001788139343,
+					"XBlockSize": 0.80000001192092896,
+					"YBlockSize": 0.80000001192092896,
+					"XFontSize": 1.3999999761581421,
+					"YFontSize": 1.3999999761581421,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "Nenhuma das etapas da morfologia Arai tem um aparelho de vocalização. Devido ao óbvio sincronização do brilho da \"craca\" e à capacidade das \"peões\" de prever e satisfazer as necessidades das Poliarcas, presumimos que a espécie podia comunicar de forma eficaz. Não foi até Farley começou a gastar grandes quantidades de tempo na antecâmara Poliarca que as primeiras pistas para a comunicação tornou-se evidente. Depois de meses de investigação, Farley começou a ter sucesso limitado com \"receber\" algum tipo de \"mensagens\" simples que vinham das Poliarcas. É evidente agora que os Poliarcas estavam tentando se comunicar o tempo inteiro, mas eles tinham experimentado com vários \"canais\", até que finalmente receberam uma resposta de Farley. Após esta descoberta, outros ficaram capazes de \"entrar em sintonia\" com as Poliarcas e",
+					"XLocation": 0.17000000178813934,
+					"YLocation": 0.15000000596046448,
+					"XBlockSize": 0.75,
+					"YBlockSize": 0.85000002384185791,
+					"XFontSize": 0.81699997186660767,
+					"YFontSize": 0.81699997186660767,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Image",
+					"Text": "/../Global/Arrow_b.png",
+					"XLocation": 0.02500000037252903,
+					"YLocation": 0.9100000262260437,
+					"XBlockSize": 0.079999998211860657,
+					"YBlockSize": 0.075000002980232239,
+					"XFontSize": 1,
+					"YFontSize": 1,
+					"Font": "",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 0.94999998807907104
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": []
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "aprender escutar. Tanto as Poliarcas quanto os peões têm um órgão simples que pode sentir a frequência vocal humana, permitindo-lhes a perceber as respostas simples dos humanos, mas ao longo dos anos, Farley aprendeu a \"falar\" com as Poliarcas através de um formulário relacionado da transmissão extra-sensorial.",
+					"XLocation": 0.17000000178813934,
+					"YLocation": 0.15000000596046448,
+					"XBlockSize": 0.75,
+					"YBlockSize": 0.85000002384185791,
+					"XFontSize": 0.81699997186660767,
+					"YFontSize": 0.81699997186660767,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "(Se quiser aprender mais sobre a comunicação com os Arai, entre em contato com Farley.)",
+					"XLocation": 0.17000000178813934,
+					"YLocation": 0.57,
+					"XBlockSize": 0.85000002384185791,
+					"YBlockSize": 0.85000002384185791,
+					"XFontSize": 0.81699997186660767,
+					"YFontSize": 0.81699997186660767,
+					"Font": "/Game/UI/Fonts/HundredMiles.HundredMiles",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		}
+	]
+}

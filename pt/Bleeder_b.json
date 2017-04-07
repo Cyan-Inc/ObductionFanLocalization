@@ -1,0 +1,104 @@
+{
+	"Pages": [
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "A taxa de dissipação é detectada e regulada automaticamente. A energia é recolhida através de cabos extrudados que foram construídas pelos Villein e estão ligados diretamente à membrana da cúpula. Quando o nível máxima de energia é excedida, a fase de dissipação é desencadeada, criando uma carga eléctrica que é descarregada para a água. Através da electrólise uma quantidade de hidrogênio e oxigênio é gerado. Recolhemos alguns desses elementos para nosso próprio uso, mas a grande maioria é liberada para a nossa atmosfera. Esta criação do gás poderia ser um razão para se preocupar, mas o ecossistema tem a capacidade de filtrar e manter nossa atmosfera perto dos níveis ideais. O excesso de H e O e a pressão gerada pelo processo são reequilibrados rapidamente pela membrana.\r\n",
+					"XLocation": 0.029999999329447746,
+					"YLocation": 0.40000000596046448,
+					"XBlockSize": 0.46000000834465027,
+					"YBlockSize": 0.44999998807907104,
+					"XFontSize": 0.48,
+					"YFontSize": 0.48,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "E, como você sabe, nós desencorajamos natação quando o Sangrador está operando.",
+					"XLocation": 0.029999999329447746,
+					"YLocation": 0.87000000476837158,
+					"XBlockSize": 0.44999998807907104,
+					"YBlockSize": 0.44999998807907104,
+					"XFontSize": 0.48,
+					"YFontSize": 0.48,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "Atenciosamente,\r\n\r\nC.W.\r\n",
+					"XLocation": 0.05000000074505806,
+					"YLocation": 0.93999999761581421,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.43000000715255737,
+					"YFontSize": 0.43000000715255737,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Image",
+					"Text": "/../Global/Bleeder.png",
+					"XLocation": 0.125,
+					"YLocation": 0.004999999888241291,
+					"XBlockSize": 0.20000000298023224,
+					"YBlockSize": 0.40000000596046448,
+					"XFontSize": 1,
+					"YFontSize": 1,
+					"Font": "",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "2 / 2",
+					"XLocation": 0.40999999642372131,
+					"YLocation": 0.94999998807907104,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.5,
+					"YFontSize": 0.5,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Atenciosamente,\r\n\r\nC.W.\r\n",
+					"XLocation": 0.30000001192092896,
+					"YLocation": 0.05000000074505806,
+					"XBlockSize": 0.44999998807907104,
+					"YBlockSize": 0.44999998807907104,
+					"XFontSize": 0.44999998807907104,
+					"YFontSize": 0.44999998807907104,
+					"Font": "/Game/UI/Fonts/Riviera.Riviera",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		}
+	]
+}

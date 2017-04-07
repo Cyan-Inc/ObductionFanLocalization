@@ -1,0 +1,259 @@
+{
+	"Pages": [
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "1.\r\nPar de sementes?",
+					"XLocation": 0.25,
+					"YLocation": 0.1,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.7,
+					"YFontSize": 0.7,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "2. \r\nprocurar planetas \r\ncom atmosferas\r\nsemelhantes",
+					"XLocation": 0.05000000074505806,
+					"YLocation": 0,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.5,
+					"YFontSize": 0.5,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "3. permutar",
+					"XLocation": 0,
+					"YLocation": 0,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 1.1,
+					"YFontSize": 1.1,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "4. \r\nárvore da\r\nsemente?",
+					"XLocation": 0.2,
+					"YLocation": 0,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.8,
+					"YFontSize": 0.8,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Terra",
+					"XLocation": 0,
+					"YLocation": 0,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 1.5,
+					"YFontSize": 1.5,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Soria",
+					"XLocation": 0,
+					"YLocation": 0,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 1.5,
+					"YFontSize": 1.5,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				},
+				{
+					"Type": "Text",
+					"Text": "\r\n\r\n(Mofang)",
+					"XLocation": 0,
+					"YLocation": 0,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 1.0,
+					"YFontSize": 1.0,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "coração",
+					"XLocation": 0,
+					"YLocation": 0,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 1.4,
+					"YFontSize": 1.4,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "super-\r\nposição do coração",
+					"XLocation": 0.2,
+					"YLocation": 0.1,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.75,
+					"YFontSize": 0.75,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Coração conectado\r\nCaminho aberto quando\r\namadurar.",
+					"XLocation": 0,
+					"YLocation": 0.05,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.55,
+					"YFontSize": 0.55,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "quatro espécies encontrar-se",
+					"XLocation": 0.05000000074505806,
+					"YLocation": 0,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.5,
+					"YFontSize": 0.5,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "O que acontece quando atingir a fruição?\r\nPara onde permutar? A Terra? Quando? Talvez estiver morto? ",
+					"XLocation": 0,
+					"YLocation": 0.05,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.43,
+					"YFontSize": 0.43,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		},
+		{
+			"Background": "",
+			"PageElements": [
+				{
+					"Type": "Text",
+					"Text": "Mais pares de sementes?\r\n\r\nEspalhados por todo o universo?\r\n \r\nPor que espalhar-se?",
+					"XLocation": 0,
+					"YLocation": 0.1,
+					"XBlockSize": 1,
+					"YBlockSize": 1,
+					"XFontSize": 0.4,
+					"YFontSize": 0.4,
+					"Font": "/Game/UI/Fonts/Board.Board",
+					"FontColorR": 0,
+					"FontColorG": 0,
+					"FontColorB": 0,
+					"FontColorA": 1
+				}
+			]
+		}
+	]
+}
